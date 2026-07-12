@@ -2,6 +2,23 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
-    
+    {
+        "id": "0.0",
+        "releasedAt": 1716373560000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://discord.gg/XRscAeS7u"
+            }
+        }
+    },
+    {
+        "id": "0.1",
+        "releasedAt": 1783885399,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://discord.gg/XRscAeS7u"
+            }
+        }
+    }
   ]
 }
