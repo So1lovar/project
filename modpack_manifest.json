@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.1.0",
   "downloadUrl": "https://example.com/files/modpack-1.1.0.zip",
   "changelog": "Добавлены новые моды и обновлены конфиги",
   "targetFolders": ["mods", "config", "resourcepacks"]
