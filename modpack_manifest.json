@@ -1,6 +1,12 @@
 {
-  "latestVersion": "1.0",
-  "downloadUrl": "https://example.com/files/modpack-1.1.0.zip",
-  "changelog": "Добавлены новые моды и обновлены конфиги",
-  "targetFolders": ["mods", "config", "resourcepacks"]
+  "latestVersion": "0.1",
+  "changelog": "Обновлены моды и конфигурация",
+  "files": [
+    {
+      "path": "mods/example-mod.jar",
+      "url": "https://updates.example.com/releases/1.3.0/files/mods/example-mod.jar",
+      "size": 123456,
+      "sha256": "ЗАМЕНИТЬ_НА_64_ШЕСТНАДЦАТЕРИЧНЫХ_СИМВОЛА"
+    }
+  ]
 }
