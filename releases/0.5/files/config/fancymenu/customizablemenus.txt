@@ -1,0 +1,14 @@
+type = customizablemenus
+
+com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
+}
+

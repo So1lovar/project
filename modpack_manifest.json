@@ -1,36 +1,1014 @@
 {
-  "latestVersion": "0.2",
+  "latestVersion": "0.5",
   "changelog": "",
   "files": [
     {
-      "path": "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.2/files/mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
-      "size": 1510075,
-      "sha256": "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5"
+      "path": "config/fancymenu/assets.zip",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets.zip",
+      "size": 12798919,
+      "sha256": "94b88fe32d2ffd0633167416c7b7d413e1c4664ad437f5947601f4d34fb7b481"
     },
     {
-      "path": "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.2/files/mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
-      "size": 25922080,
-      "sha256": "92f74ef89381ea1f74e1145feab6db4ce4638804b1fb43622302d0a647fc0a66"
+      "path": "config/fancymenu/assets/2026-06-17_09.07.43.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/2026-06-17_09.07.43.png",
+      "size": 5219138,
+      "sha256": "16ca5e1593369b848e03e34488ebb11e89ba62ed9f5abebd554ad0c25975ccfc"
     },
     {
-      "path": "mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.2/files/mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
-      "size": 365195,
-      "sha256": "15bf9bd6d8e3ae8ad35c5a4d90680424b534d9762d698c0a466965afcab5dd78"
+      "path": "config/fancymenu/assets/buttons/acknowledge-normal.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/buttons/acknowledge-normal.png",
+      "size": 17717,
+      "sha256": "354d93c3a326993502f3f61da052b793937f37e109bc54a1f9d3beadc749f120"
+    },
+    {
+      "path": "config/fancymenu/assets/buttons/button3.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/buttons/button3.png",
+      "size": 326,
+      "sha256": "ba3523aa94b44fc5464e93e726e1b71504d6657fceb0a1b84d8ca9b9a3246e51"
+    },
+    {
+      "path": "config/fancymenu/assets/buttons/buttonhover.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/buttons/buttonhover.png",
+      "size": 499,
+      "sha256": "07b4e541223b81202807ac95bb05936bb09ba37b17601b2f0017127953633bce"
+    },
+    {
+      "path": "config/fancymenu/assets/custom_menu/mr_1.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/custom_menu/mr_1.png",
+      "size": 5642673,
+      "sha256": "b58531a71c0f16c1bff655a99c49a582e1bfc0c11330a0ed88c5b30f9eb1b9a2"
+    },
+    {
+      "path": "config/fancymenu/assets/ico/exit.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/ico/exit.png",
+      "size": 1805,
+      "sha256": "c3eb7f6c6432fc84fcf0971b52f45675fea036b46293775a1ac1d86b5e35ae50"
+    },
+    {
+      "path": "config/fancymenu/assets/loconautics_logo.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/loconautics_logo.png",
+      "size": 235391,
+      "sha256": "986442dd473071d7848be8c3703a0cdc7f37c93b5deac29c4759640983016257"
+    },
+    {
+      "path": "config/fancymenu/assets/loconautics_logo2.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/loconautics_logo2.png",
+      "size": 250080,
+      "sha256": "11e06fc31b4d9fe606c87b8c2489b5779e72279b9621fea866243a4dc97c78ca"
+    },
+    {
+      "path": "config/fancymenu/assets/music/toby.ogg",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/music/toby.ogg",
+      "size": 514154,
+      "sha256": "02c0a777c37035beb3d35e52441b870142738ffa8e10b5a059c7d24d02ea76fe"
+    },
+    {
+      "path": "config/fancymenu/assets/music/tobyfox-welcome_to_the_green_room.ogg",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/music/tobyfox-welcome_to_the_green_room.ogg",
+      "size": 1213627,
+      "sha256": "47aaf4248620a49d2f897759a1c8d34a5c8e4206f8b56562df5a50468ce04f07"
+    },
+    {
+      "path": "config/fancymenu/assets/song.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/assets/song.txt",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "config/fancymenu/audio_element_controller_metas.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/audio_element_controller_metas.json",
+      "size": 323,
+      "sha256": "719eec0fe79dde2a643f32cdc505b9ab6c8a6942602ec4483759672bf184caab"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/custom_gui_screens.txt",
+      "size": 51,
+      "sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/customizablemenus.txt",
+      "size": 278,
+      "sha256": "f55da715e983930aed8db0c34a9286ec9b83b532ba17e7f425db5a61f70573e6"
+    },
+    {
+      "path": "config/fancymenu/customization/loco-mpuc.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/customization/loco-mpuc.txt",
+      "size": 27506,
+      "sha256": "23475ea91afd0d0f31b2f66c497855a86b4ddc31acec90731da1432bc2c7f6fa"
+    },
+    {
+      "path": "config/fancymenu/customization/select_world_screen.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/customization/select_world_screen.txt",
+      "size": 29994,
+      "sha256": "6b6d389acfa3ea9eb54deb7d61c1f56ba3a84b577ed429703111d252d74ef281"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_loco.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/customization/title_screen_loco.txt",
+      "size": 154329,
+      "sha256": "11f75abc91dd27c8df9f46085d8bac1b6b097a5fa5df5b0bde62f77bb8a36de1"
+    },
+    {
+      "path": "config/fancymenu/customization/update-done_loco.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/customization/update-done_loco.txt",
+      "size": 13393,
+      "sha256": "a623aa709bc085de3a69d53b395a6c6a57834d901c096ff9a6c29f2b352f23eb"
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "size": 211,
+      "sha256": "41cbe7b70e253544290ebec02139a5a2a2eb76a586f622250c6985394e613380"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/legacy_checklist.txt",
+      "size": 42,
+      "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+    },
+    {
+      "path": "config/fancymenu/listener_instances.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/listener_instances.txt",
+      "size": 27,
+      "sha256": "4851b9a66d7c10a423430a935fed54793eda06790038782519b25a628d104ed0"
+    },
+    {
+      "path": "config/fancymenu/normalized_scroll_screens.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/normalized_scroll_screens.json",
+      "size": 53,
+      "sha256": "619e32d8ac9a93d8ecf767482a82625418f3fbff9dfc219d3a114807516d6c84"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/options.txt",
+      "size": 4421,
+      "sha256": "85a0eec6b35efaaff51003b3eed1d67d5449d87cf7d8274df7b166904be3d71d"
+    },
+    {
+      "path": "config/fancymenu/scheduler_instances.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/scheduler_instances.txt",
+      "size": 36876,
+      "sha256": "299c7072446d44639e4c64ff4fd1a41cacaf868d7c0435ad31628620cb9f1841"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/ui_themes/cherry_blossom.json",
+      "size": 9349,
+      "sha256": "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/ui_themes/cozy_campfire.json",
+      "size": 9347,
+      "sha256": "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/ui_themes/dark.json",
+      "size": 9329,
+      "sha256": "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "size": 9359,
+      "sha256": "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/ui_themes/light.json",
+      "size": 9331,
+      "sha256": "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/ui_themes/light_high_contrast.json",
+      "size": 9361,
+      "sha256": "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "size": 9345,
+      "sha256": "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/ui_themes/purple_void.json",
+      "size": 9343,
+      "sha256": "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/ui_themes/spooky_season.json",
+      "size": 9347,
+      "sha256": "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/config/fancymenu/user_variables.db",
+      "size": 1095,
+      "sha256": "80271b0bff0d133a732164f9ea6cd3b095d13b7d4582a1fe85112a9ea865b30d"
+    },
+    {
+      "path": "kubejs/test.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/kubejs/test.txt",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "mods/aeroclaims-0.9.3.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/aeroclaims-0.9.3.jar",
+      "size": 207202,
+      "sha256": "0c42edd6b4c80dc4bfb06636373e087a2e0a392f9d1f1bdec68b4ccc9904efe1"
+    },
+    {
+      "path": "mods/aerocopycats-1.1.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/aerocopycats-1.1.1.jar",
+      "size": 14702,
+      "sha256": "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
+    },
+    {
+      "path": "mods/aeronautics_windsound-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/aeronautics_windsound-1.0.1.jar",
+      "size": 2090769,
+      "sha256": "f55aa24b55e9922b25085ba6d0041173077123ecaa5ebf83e16dd4a23011eabd"
+    },
+    {
+      "path": "mods/AeroPropBlur-1.21.1-1.0a.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/AeroPropBlur-1.21.1-1.0a.jar",
+      "size": 22812,
+      "sha256": "5efc1fd59e42f1cb86bce4bed04fc026a70cc2b5b8c9d0ffe6097475d4526ad7"
+    },
+    {
+      "path": "mods/aeroworks-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/aeroworks-1.3.0.jar",
+      "size": 675196,
+      "sha256": "df8ad989320eab098ce9d90d26c9e413acdbc82ad57b9636ef0a697ae4c7863f"
+    },
+    {
+      "path": "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "size": 84811632,
+      "sha256": "07ee6fd24d8427ee079e2e376095b0ac92450b0153331f1575f8195e2c9cf90b"
+    },
+    {
+      "path": "mods/architectury-13.0.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/architectury-13.0.11-neoforge.jar",
+      "size": 584734,
+      "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
+    },
+    {
+      "path": "mods/armourersworkshop-forge-1.21.1-3.4.0-beta.3.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/armourersworkshop-forge-1.21.1-3.4.0-beta.3.jar",
+      "size": 6525367,
+      "sha256": "bcab80b24e08bb2b1e9c6e60b922a5bba48b4c1d77ae0e375a6b733c1f16ce12"
+    },
+    {
+      "path": "mods/athena-neoforge-1.21.1-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/athena-neoforge-1.21.1-4.0.6.jar",
+      "size": 99944,
+      "sha256": "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
+    },
+    {
+      "path": "mods/Axiom-5.4.2-for-MC1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/Axiom-5.4.2-for-MC1.21.1.jar",
+      "size": 47067416,
+      "sha256": "ecb14b29e7eb4cdc5c1f299782d32a2c26202292a8a9b4060a9104526e6d7267"
+    },
+    {
+      "path": "mods/azimuth-1.4.3.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/azimuth-1.4.3.jar",
+      "size": 143479,
+      "sha256": "a6b8245e95e74dc559ee289fd692c4fced96db92cf697567b847bcfdc5247ba9"
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.1-21.0.63.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/balm-neoforge-1.21.1-21.0.63.jar",
+      "size": 782380,
+      "sha256": "b2fb37cbd47cdbd80300c2328e42c1440cfaa9ccc8635d2867b9373792f621f5"
+    },
+    {
+      "path": "mods/better-compatability-checker-neoforge-21.1.8.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/better-compatability-checker-neoforge-21.1.8.jar",
+      "size": 25085,
+      "sha256": "1ed1373aa54a486f19a0c68c7446fe39c227628e7f5048bff97917189307e7e8"
+    },
+    {
+      "path": "mods/bits_n_bobs-2.1.15-beta.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/bits_n_bobs-2.1.15-beta.jar",
+      "size": 2768502,
+      "sha256": "92229427750ac74f3596d973418f150be2df4d01d41fe03a60c15b6aa30ba558"
+    },
+    {
+      "path": "mods/chat_heads-0.15.3-neoforge-1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/chat_heads-0.15.3-neoforge-1.21.jar",
+      "size": 89367,
+      "sha256": "1aa41aa6d8e28d66d9379ccc02197aa540b607d1a7ddead3f1ccb72e57118beb"
+    },
+    {
+      "path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "size": 15020578,
+      "sha256": "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
+    },
+    {
+      "path": "mods/climbable_ropes-2.1.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/climbable_ropes-2.1.1.jar",
+      "size": 242108,
+      "sha256": "2094081bb1b7f9647955570f190e697dc713eb25f36a028a5a02e461c75d281e"
+    },
+    {
+      "path": "mods/cmparallelpipes-neoforge-2.0.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/cmparallelpipes-neoforge-2.0.2.jar",
+      "size": 28606,
+      "sha256": "da852ea8c3588bd775ec038743bb3c8332a68e84fd969d56947f62cbf9fc3e11"
+    },
+    {
+      "path": "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "size": 398004,
+      "sha256": "9259e4adb5b091fe2bd60e57be7f0b2ec9872f1c97ff6d2ed3bb2a9a5ec6407f"
+    },
+    {
+      "path": "mods/compactflap-neoforge-1.21.1-1.0.4.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/compactflap-neoforge-1.21.1-1.0.4.1.jar",
+      "size": 145237,
+      "sha256": "69e9be30cfb28b7a24b0c31c0e2ae270989405cc646eef94351bbc0968e81a32"
+    },
+    {
+      "path": "mods/connector-2.0.0-beta.15+1.21.1-full.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/connector-2.0.0-beta.15+1.21.1-full.jar",
+      "size": 4527056,
+      "sha256": "d5149893c62dc4434a8751f025d692579260b73ed9428ea4dea110015ffa0f04"
+    },
+    {
+      "path": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "size": 77555,
+      "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
+    },
+    {
+      "path": "mods/coolrain-1.21.1-NeoForge-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/coolrain-1.21.1-NeoForge-1.0.1.jar",
+      "size": 4148178,
+      "sha256": "16601370ae4ff30af749b69d6da2f11079a4c187aba1775568a13f8c03932d3a"
+    },
+    {
+      "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "size": 1791747,
+      "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+    },
+    {
+      "path": "mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "size": 63981,
+      "sha256": "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create-1.21.1-6.0.10.jar",
+      "size": 19123767,
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "size": 33120013,
+      "sha256": "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
+    },
+    {
+      "path": "mods/create-dyn-light-forge-1.21.1-2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create-dyn-light-forge-1.21.1-2.0.1.jar",
+      "size": 137500,
+      "sha256": "e2cb38a04c9808b559b7aeb0b21af9d50e86a40f9cf5f8a0975260e11d2b45d1"
+    },
+    {
+      "path": "mods/create_aeronautics_roller_fix-1.0.1-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create_aeronautics_roller_fix-1.0.1-neoforge-1.21.1.jar",
+      "size": 5975,
+      "sha256": "23db06e01734a40e25bbc9e4076d5f939a9b28760949092f081cf4b75c43f8d5"
+    },
+    {
+      "path": "mods/create_aeronautics_transmission_linkage-0.2.5.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create_aeronautics_transmission_linkage-0.2.5.jar",
+      "size": 666943,
+      "sha256": "8151aeb76911b0bfc393545b3d69aca2725d036d20b729c333404cbadbe00afe"
+    },
+    {
+      "path": "mods/create_bb-1.0.7-1.21.1-Neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create_bb-1.0.7-1.21.1-Neoforge.jar",
+      "size": 2613213,
+      "sha256": "68833088a56a2e160df7b23ce9703cde0da974b35ba41f5d86bbb758acd1ec79"
+    },
+    {
+      "path": "mods/create_blueprinted-2.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create_blueprinted-2.0.jar",
+      "size": 406339,
+      "sha256": "58f0257f896044096bb833ec0bdbd78ab25af9a1d484de06550d76f90b6b5a1f"
+    },
+    {
+      "path": "mods/create_connected-1.3.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create_connected-1.3.2-mc1.21.1.jar",
+      "size": 6779410,
+      "sha256": "90bdceac63cb0ebd5e51351e22136182b996512edef937d0635d2857b0a3f24b"
+    },
+    {
+      "path": "mods/create_grappling_hooks-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create_grappling_hooks-1.2.0.jar",
+      "size": 243768,
+      "sha256": "93e92e126f48f14f76022229dd4d85ac357bf937c4c943ffc3b5e58a1bb8ce7b"
+    },
+    {
+      "path": "mods/create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar",
+      "size": 523501,
+      "sha256": "d192d0e665df0af3a06f65ffe0abad49beed802fdafebfcd8f4e9cf3b6b5c139"
+    },
+    {
+      "path": "mods/create_submarine-2.2.4.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create_submarine-2.2.4.jar",
+      "size": 1869296,
+      "sha256": "87a20bb20ae3c90e6838073d3a84839e251c8794f409ade8cab79f51d1de0c66"
+    },
+    {
+      "path": "mods/create_tweaked_controllers-1.21.1-1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/create_tweaked_controllers-1.21.1-1.2.7.jar",
+      "size": 303343,
+      "sha256": "eda56263fabfcf4064dbaa8950a7f469775d4457dc807ee84ba29169690fda34"
+    },
+    {
+      "path": "mods/createaddition-1.6.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createaddition-1.6.0.jar",
+      "size": 1661802,
+      "sha256": "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9"
+    },
+    {
+      "path": "mods/createaddonorganizer-1.5__1.21.1.jar.disabled",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createaddonorganizer-1.5__1.21.1.jar.disabled",
+      "size": 714765,
+      "sha256": "88c635d00bd0270c162df3b3b565f72b8e9afa05100bbb96dfa85689ee65f09d"
+    },
+    {
+      "path": "mods/createaviation-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createaviation-1.0.0-neoforge-1.21.1.jar",
+      "size": 4029166,
+      "sha256": "c5b3a0995826ca10432dd329dee3b628526047a564a09095b81af20eac56e8e6"
+    },
+    {
+      "path": "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createbigcannons-5.11.7+mc.1.21.1.jar",
+      "size": 3771506,
+      "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
+    },
+    {
+      "path": "mods/createdeco-2.1.3.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createdeco-2.1.3.jar",
+      "size": 3328498,
+      "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+    },
+    {
+      "path": "mods/createdieselgenerators-1.21.1-1.3.15.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createdieselgenerators-1.21.1-1.3.15.jar",
+      "size": 3154746,
+      "sha256": "56ef1d574278fc311f1ffa223dbd613077b899354a18d01ae8dca2578a4e2990"
+    },
+    {
+      "path": "mods/createprism-1.2.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createprism-1.2.2.jar",
+      "size": 1287223,
+      "sha256": "3b9c80f8a0104a2cee1af2b0a17b5a500f5600c55bccc441a34063154587a8fa"
+    },
+    {
+      "path": "mods/createpropulsion-1.1.5.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createpropulsion-1.1.5.jar",
+      "size": 1707765,
+      "sha256": "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1"
+    },
+    {
+      "path": "mods/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar",
+      "size": 2071249,
+      "sha256": "336536a181faf6db7f756393248e786382fdd0c1c2760ff2dfc4b265859321b7"
+    },
+    {
+      "path": "mods/createtransmission-1.2.1+neoforge-create6-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/createtransmission-1.2.1+neoforge-create6-1.21.1.jar",
+      "size": 249368,
+      "sha256": "48b5df187c629cb9cc8abb82779ec767bcd4c045254bf5899b12357e1882afb4"
+    },
+    {
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "size": 1218640,
+      "sha256": "bd4164b9ec8e21775e34a99a8d21e5280ee8cc6d3bd003a1b32dc3ada59ae887"
+    },
+    {
+      "path": "mods/cwb-neoforge-3.0.0+mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/cwb-neoforge-3.0.0+mc1.21.jar",
+      "size": 81843,
+      "sha256": "be7144647bc160858e659f6793fcce993914443b9256c2df0369b1c616a2a5d4"
+    },
+    {
+      "path": "mods/dashpanels-1.6+neoforge1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/dashpanels-1.6+neoforge1.21.1.jar",
+      "size": 555364,
+      "sha256": "f7a5e36d7cb22d31b4568c5796cad803eb4008d4156a41891e824ec5fc85ca6d"
+    },
+    {
+      "path": "mods/Design-n-Decor-1.21.1-2.2b.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/Design-n-Decor-1.21.1-2.2b.jar",
+      "size": 6329899,
+      "sha256": "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
+    },
+    {
+      "path": "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "size": 30207268,
+      "sha256": "d6a7a963f794501678113e2545d8b25c90e123ef6b9256bb5716907d059e1ef5"
+    },
+    {
+      "path": "mods/dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
+      "size": 2107270,
+      "sha256": "ba127947220504d1410716e422ef6a9a387d818a922ad5fdb3be044f9f7556f7"
+    },
+    {
+      "path": "mods/drivebywire-0.3.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/drivebywire-0.3.0.jar",
+      "size": 273144,
+      "sha256": "256600adcd4c811dba480752d76048a053760038ff0a45b37d5d3a0164145f8f"
+    },
+    {
+      "path": "mods/droingos_harpoons-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/droingos_harpoons-1.0.2.jar",
+      "size": 1163936,
+      "sha256": "38c56473399edfaa453518629921677c4d7603a23455d4953dd969e5e621fc96"
+    },
+    {
+      "path": "mods/dynamicsurroundings-neoforge-1.21.1-0.4.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/dynamicsurroundings-neoforge-1.21.1-0.4.2.jar",
+      "size": 14844663,
+      "sha256": "dae59dceb749957fcd9cb589e0cab5ef60f2e6422002dd490ba3111b6eb4eaff"
+    },
+    {
+      "path": "mods/electroenergetics-1.21.1-1.1.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/electroenergetics-1.21.1-1.1.1.jar",
+      "size": 4771388,
+      "sha256": "ea5df2c5100a4aa178bd0054779015d85c63da221a782915240656601b51aefd"
+    },
+    {
+      "path": "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "size": 1585287,
+      "sha256": "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
+    },
+    {
+      "path": "mods/Essential_1-4-0-3_neoforge_1-21-1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/Essential_1-4-0-3_neoforge_1-21-1.jar",
+      "size": 51944692,
+      "sha256": "1124cdb16ae43b875662d1a787f9d29e4a010ebb84f8b14477e06c180390a9de"
+    },
+    {
+      "path": "mods/exposure-neoforge-1.21.1-1.9.18.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/exposure-neoforge-1.21.1-1.9.18.jar",
+      "size": 2192415,
+      "sha256": "674c537a99f69b2bae53521c95dae59bc5f4eb2eb15418eec0ecbaf36b53d888"
+    },
+    {
+      "path": "mods/extractrooms-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/extractrooms-1.0.2.jar",
+      "size": 909257,
+      "sha256": "bb7c003c7347b63b9c98d0fc947a1ce955e54c9a442eb873b4d28707994c402c"
+    },
+    {
+      "path": "mods/fancy-entity-renderer-neoforge-1.21-0.4.8.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/fancy-entity-renderer-neoforge-1.21-0.4.8.jar",
+      "size": 410490,
+      "sha256": "50c4a5bd213ab9a0121af3052d9637b30c8dad304cfeb8f37f05f5cd716c34d6"
+    },
+    {
+      "path": "mods/fancymenu_neoforge_3.9.7_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/fancymenu_neoforge_3.9.7_MC_1.21.1.jar",
+      "size": 25495809,
+      "sha256": "58d3d310b371a49c782aa156b225c3fb0c83eb2f52bae3a03872fbedc3b6fd48"
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/FarmersDelight-1.21.1-1.3.2.jar",
+      "size": 3163042,
+      "sha256": "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+    },
+    {
+      "path": "mods/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "size": 98320,
+      "sha256": "e831a12ca075450295aa26c8862d641498f8031af10674d60a791d2f27be17be"
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/ferritecore-7.0.3-neoforge.jar",
+      "size": 121559,
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+    },
+    {
+      "path": "mods/forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar",
+      "size": 5590061,
+      "sha256": "b152376a89cf790ca7966df220f3fa85fb8ecb603225a6a9bdb6684c94944f1e"
+    },
+    {
+      "path": "mods/fusion-1.3.12-neoforge-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/fusion-1.3.12-neoforge-mc1.21.1.jar",
+      "size": 923270,
+      "sha256": "17f5215648a98bcde4134577b013200dbf363273ae282449c51408ae8346f2fa"
+    },
+    {
+      "path": "mods/hotstuff-1.1.6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/hotstuff-1.1.6.jar",
+      "size": 227369,
+      "sha256": "19b5d10dc212b6a75ce13f7e31e68e1378840cad5e871d1cecc55ce5323e9ddc"
+    },
+    {
+      "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "size": 213853,
+      "sha256": "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+      "size": 361795,
+      "sha256": "336df12f099d1a441a3e06850bea86e9c2d0c8bc022d3d9a201870a201562a04"
+    },
+    {
+      "path": "mods/immersivehotbar-1.1.2-neoforge-1.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/immersivehotbar-1.1.2-neoforge-1.21-1.21.1.jar",
+      "size": 84650,
+      "sha256": "bb36d5d89f0363cd89d2bcaf575dd715d5e05c98d5b54af9d617332d716f9ecb"
+    },
+    {
+      "path": "mods/inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+      "size": 200251,
+      "sha256": "17d31bff249e39215a3fc3da2514ef5b461ad7a61ba2978e7faea8aade46ff5e"
+    },
+    {
+      "path": "mods/inventorymanagement-1.21.1-NeoForge-1.0.7.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/inventorymanagement-1.21.1-NeoForge-1.0.7.jar",
+      "size": 240595,
+      "sha256": "2b393fdc5c0920648115f4323a7b347d1676f7dc0ba0d9cd02de182e6b13d597"
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "size": 2540723,
+      "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+    },
+    {
+      "path": "mods/irisveil-0.3.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/irisveil-0.3.0.jar",
+      "size": 1985779,
+      "sha256": "a1927c93535088a079f7b001d69db54795c36fd19ec9f044ea310c8eb3fadee5"
+    },
+    {
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "size": 725742,
+      "sha256": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
     },
     {
       "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.2/files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
       "size": 618842,
       "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
     },
     {
+      "path": "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "size": 81808,
+      "sha256": "8ba2bc2cb894e48d8e7520d41c72ef7f429659c3ee58b029f4899c760b958493"
+    },
+    {
+      "path": "mods/lever-drugster-1.8.8.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/lever-drugster-1.8.8.jar",
+      "size": 477209,
+      "sha256": "d77db7f3113562e78f102f1e01a0e4f1507b74116bcabd5ef954f1102a3d2452"
+    },
+    {
+      "path": "mods/Lift-n-Load-1.21.1-1.0c.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/Lift-n-Load-1.21.1-1.0c.jar",
+      "size": 261308,
+      "sha256": "20087e804427b71ba8d02b6181e029c3681577081abb6688129d7f46d8aa7f98"
+    },
+    {
+      "path": "mods/linearbearing-1.2.6(1).jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/linearbearing-1.2.6(1).jar",
+      "size": 148396,
+      "sha256": "0530c06045c17809a753869250ad1e426c56a531f5f243b771254bd4ad84e92f"
+    },
+    {
+      "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "size": 774220,
+      "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+    },
+    {
+      "path": "mods/mechanicals-1.21.1-1.1.6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/mechanicals-1.21.1-1.1.6.jar",
+      "size": 2022181,
+      "sha256": "0ce9bb97a68a2fc7340695eacd5b9898f2dc481dc6384df62bfb10c92c9de549"
+    },
+    {
       "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.2/files/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/melody_neoforge_1.0.10_MC_1.21.jar",
       "size": 36096,
       "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "size": 599474,
+      "sha256": "6f367ea4002c39e3cfe27e0a0be1008880a4b35a8482a78a437cfb9d8ee38273"
+    },
+    {
+      "path": "mods/modpack-update-checker-1.21.1-neoforge-0.15.6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/modpack-update-checker-1.21.1-neoforge-0.15.6.jar",
+      "size": 431318,
+      "sha256": "6585d963568de9fc396faa713b3922ff02b2223f581f53d808df9988b06df360"
+    },
+    {
+      "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "size": 73938,
+      "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+    },
+    {
+      "path": "mods/mru-1.0.31+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/mru-1.0.31+1.21.1-neoforge.jar",
+      "size": 119143,
+      "sha256": "6ab396aa8cdb26e08442746e7e09ba9d4df2acef10834f697b047cb7bff1c816"
+    },
+    {
+      "path": "mods/nowheel-1.0.6+1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/nowheel-1.0.6+1.21.1neoforge.jar",
+      "size": 75713,
+      "sha256": "0b1379cbef442c6c21e2ab7a5da5d29e9959fe62fd83aef3e8a77b039cdf6b4d"
+    },
+    {
+      "path": "mods/ok_zoomer-neo-10.0.0-beta.13.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/ok_zoomer-neo-10.0.0-beta.13.jar",
+      "size": 208085,
+      "sha256": "61da322358127329d40b36a028faa7d91c370a3708e08becf1f1b8b242c5eb61"
+    },
+    {
+      "path": "mods/open-parties-and-claims-neoforge-1.21.1-0.29.3.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/open-parties-and-claims-neoforge-1.21.1-0.29.3.jar",
+      "size": 1678468,
+      "sha256": "a49d18f92dcde9489a1938012bd5a3e4ba13ed7ea4ba1ec25dc0b1a28f886028"
+    },
+    {
+      "path": "mods/particlerain-4.0.0-beta.10+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/particlerain-4.0.0-beta.10+1.21.1-neoforge.jar",
+      "size": 605458,
+      "sha256": "ef835ede1d24ba24371f1d77520a66c8010adf8c5f538a54099a14b13ae2e307"
+    },
+    {
+      "path": "mods/particular-1.21.1-NeoForge-1.5.5.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/particular-1.21.1-NeoForge-1.5.5.jar",
+      "size": 314940,
+      "sha256": "9911906ae0d883a617ce950ff4f1833bd9e379c5b221df18a2b3e09556f84b2a"
+    },
+    {
+      "path": "mods/pfsable-1.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/pfsable-1.0.jar",
+      "size": 75997,
+      "sha256": "4a57106efa03a7003da97685be58d0cd415565446111e06ccc6678530c376231"
+    },
+    {
+      "path": "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+      "size": 7096988,
+      "sha256": "ded9ea8677f407cbf280b0ee33866ae70859a7c476ef0f60fd35a9be2ee9b91a"
+    },
+    {
+      "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "size": 62031,
+      "sha256": "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
+    },
+    {
+      "path": "mods/punchy-2.6.2-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/punchy-2.6.2-neoforge-1.21.1.jar",
+      "size": 1714297,
+      "sha256": "e49be5f403c426aea1aa5d17b0ce93719d08f00e8e78f43cf65c28fecb795ef2"
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "size": 1425176,
+      "sha256": "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c"
+    },
+    {
+      "path": "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+      "size": 18728584,
+      "sha256": "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5"
+    },
+    {
+      "path": "mods/rechiseled-1.2.5-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/rechiseled-1.2.5-neoforge-mc1.21.jar",
+      "size": 11498611,
+      "sha256": "7bf14cf8a4bfdc4b6c990126a75da29fd2bb7559d1c05b71e29c8fd5ae044435"
+    },
+    {
+      "path": "mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+      "size": 983177,
+      "sha256": "ba89cd5d1221621ed226cc7f1c26dc84a660cc4f6d122753052429f96d71248d"
+    },
+    {
+      "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "size": 484332,
+      "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+    },
+    {
+      "path": "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "size": 76369,
+      "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+    },
+    {
+      "path": "mods/rolling-tones-0.1.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/rolling-tones-0.1.0.jar",
+      "size": 52833,
+      "sha256": "4c0269019ecdaa46fc8c2453227d5c8f36f3deeeb316fb2e80ae47f351e771b8"
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-2.0.3.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sable-neoforge-1.21.1-2.0.3.jar",
+      "size": 12889000,
+      "sha256": "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
+    },
+    {
+      "path": "mods/sable_xaero_bridge-0.1.11.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sable_xaero_bridge-0.1.11.jar",
+      "size": 577977,
+      "sha256": "6e742003c27d94d49c6326ff2018655ca87585936ee32e9042d0badc1cdc9bf4"
+    },
+    {
+      "path": "mods/schematician-0.10.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/schematician-0.10.0.jar",
+      "size": 88238,
+      "sha256": "9034f669c43458ee420ba1e45018f8b7efb1409c2bf2666f58277683951bd74c"
+    },
+    {
+      "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "size": 77326,
+      "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
+    },
+    {
+      "path": "mods/snassets-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/snassets-1.0.1.jar",
+      "size": 39795802,
+      "sha256": "2600962860c96670ba1976930f3c9ec4cd0576d0850f3274cb61dfbd530fbf7b"
+    },
+    {
+      "path": "mods/sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "size": 1291418,
+      "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
+    },
+    {
+      "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "size": 299353,
+      "sha256": "d78002d50865db928fbf2c17c716ffcbbd6d33bff88aa1f0f3a04152a2665e25"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.73.2020.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sophisticatedbackpacks-1.21.1-3.25.73.2020.jar",
+      "size": 1144239,
+      "sha256": "22abe598a2c7f4c3cc18ec62f3e83bd21268e23c15ee90c36646b8aa8aa608ec"
+    },
+    {
+      "path": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "size": 82627,
+      "sha256": "f396364bfb146d05c1c44d21431f357b68742699cf49e6f8815751db129dc068"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "size": 1673669,
+      "sha256": "759da116d317f0edbfff6c2bcdd976f3f458c430c86262b68766c9a7f3861768"
+    },
+    {
+      "path": "mods/sound-physics-aeronautics-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sound-physics-aeronautics-1.2.1.jar",
+      "size": 2617000,
+      "sha256": "c163c5802b2c21f61a48c5de4b0f2f7f30368fc1fac4bb21bd212d680bc299f0"
+    },
+    {
+      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "size": 202454,
+      "sha256": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177"
+    },
+    {
+      "path": "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "size": 8732437,
+      "sha256": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7"
+    },
+    {
+      "path": "mods/spiffyhud_neoforge_3.1.2_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/spiffyhud_neoforge_3.1.2_MC_1.21.1.jar",
+      "size": 651035,
+      "sha256": "a2bb0b1995153d35af209f5351d29026edfad78dd4b1de7a9fdd193ba96c1519"
+    },
+    {
+      "path": "mods/SSRD-1.8.5-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/SSRD-1.8.5-1.21.1.jar",
+      "size": 70956,
+      "sha256": "f146ac9d19e7e0e3febd7dd4e3e7cbea7877998535298ba7f87af52292e4f31f"
+    },
+    {
+      "path": "mods/struts-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/struts-1.3.0.jar",
+      "size": 215558,
+      "sha256": "0d14b832cc0ba05eb1311e6195a98684fc03b16be1ee65f47cc916716eeb650a"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "size": 207514,
+      "sha256": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.22-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/supermartijn642corelib-1.1.22-neoforge-mc1.21.jar",
+      "size": 558466,
+      "sha256": "b6e5a4bbc2548c849fc278972c285190a4fd7ae7efa92923d7d7bff1ddac52ff"
+    },
+    {
+      "path": "mods/tooltipoverhaul-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/tooltipoverhaul-neoforge-1.21.1-1.5.1.jar",
+      "size": 574348,
+      "sha256": "2761738e610763386d4c4cba2a77fcbf976aefeb42b4cbd6e3807a6c1a1744cf"
+    },
+    {
+      "path": "mods/visuality-forge-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/visuality-forge-2.1.0.jar",
+      "size": 115765,
+      "sha256": "f4c134d3041e9e6626276a26d2864f3aed177c08c8a109cd3788c5470c28d02e"
+    },
+    {
+      "path": "mods/wakes-1.21.1-NeoForge-1.3.6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/wakes-1.21.1-NeoForge-1.3.6.jar",
+      "size": 210703,
+      "sha256": "4b803bc1bfa82a4d9068c1b2b318404987c7d32977a6ff94708627978b6f6d01"
+    },
+    {
+      "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "size": 432269,
+      "sha256": "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c"
+    },
+    {
+      "path": "mods/worldedit-mod-7.3.8.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/worldedit-mod-7.3.8.jar",
+      "size": 6222854,
+      "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "size": 2185409,
+      "sha256": "b722bcf794288f0ed51165cd1f057fc4505e20abbc723b2e17e900426e443603"
+    },
+    {
+      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "size": 1418918,
+      "sha256": "2c4089c2f9132b85749a18920d6e2098744f61fe98854fcff2e3768f2d7269fa"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "size": 1118651,
+      "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.5/files/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "size": 546928,
+      "sha256": "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
     }
   ]
 }
