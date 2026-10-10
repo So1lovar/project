@@ -1,12 +1,30 @@
 {
   "latestVersion": "0.1",
-  "changelog": "Обновлены моды и конфигурация",
+  "changelog": "",
   "files": [
     {
-      "path": "mods/example-mod.jar",
-      "url": "https://updates.example.com/releases/1.3.0/files/mods/example-mod.jar",
-      "size": 123456,
-      "sha256": "ЗАМЕНИТЬ_НА_64_ШЕСТНАДЦАТЕРИЧНЫХ_СИМВОЛА"
+      "path": "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.1/files/mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "size": 1510075,
+      "sha256": "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5"
+    },
+    {
+      "path": "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.1/files/mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+      "size": 25922080,
+      "sha256": "92f74ef89381ea1f74e1145feab6db4ce4638804b1fb43622302d0a647fc0a66"
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.1/files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "size": 618842,
+      "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
+    },
+    {
+      "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/project/main/releases/0.1/files/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "size": 36096,
+      "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
     }
   ]
 }
