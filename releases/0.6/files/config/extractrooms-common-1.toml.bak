@@ -1,0 +1,109 @@
+#Extractrooms configuration.
+#Changes to this file require a server /reload or full restart to take effect.
+#In-game config screen changes are applied immediately via the Save button.
+[loot]
+	#Items to blacklist from Backrooms loot drops.
+	itemBlacklist = ["minecraft:dirt", "minecraft:stone", "minecraft:bedrock", "minecraft:barrier", "minecraft:command_block", "minecraft:structure_block", "minecraft:jigsaw", "minecraft:debug_stick"]
+	#Mod IDs to completely exclude from Backrooms loot.
+	blacklistedModIds = []
+	#Item registry paths containing any of these words (case-insensitive) are excluded from Backrooms loot.
+	#Useful for filtering out creative/admin/cheat items added by other mods.
+	keywordBlacklist = ["creative", "admin", "infinity", "operator", "cheat", "god", "debug"]
+	#Should random items occasionally have enchantments?
+	enableEnchantments = true
+	#Can items receive enchantments they normally wouldn't support?
+	illegalEnchantments = false
+	#Minimum number of unique item stacks a chest will contain (unique loot slots, not filler).
+	# Default: 7
+	# Range: 1 ~ 27
+	minSlotsFilled = 7
+	#Maximum number of unique item stacks a chest can contain (unique loot slots, not filler).
+	# Default: 15
+	# Range: 1 ~ 27
+	maxSlotsFilled = 15
+	#Minimum quantity per item stack.
+	# Default: 1
+	# Range: 1 ~ 64
+	minStackSize = 1
+	#Maximum quantity per item stack (capped by item's own max stack size).
+	# Default: 7
+	# Range: 1 ~ 64
+	maxStackSize = 7
+	#Maximum number of enchantments an item can receive.
+	# Default: 2
+	# Range: 1 ~ 10
+	maxEnchantmentCount = 2
+	#Chance (0.0-1.0) that a generated item will be enchanted.
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	enchantmentRollChance = 0.15
+
+[world]
+	#Chance (0.0-1.0) per chunk that a rare room template replaces procedural generation (if a matching template exists).
+	# Default: 0.45
+	# Range: 0.0 ~ 1.0
+	rareRoomChance = 0.45
+	#Allow Noise blocks to be displaced by placing a block on them, triggering the spread chain.
+	noiseSpreadEnabled = true
+	#Chance (0.0–1.0) that placing a block on a Noise pool clones that exact block across the entire chain.
+	#Default: 0.01 (1%). At 1.0, every trigger clones the placed block.
+	# Default: 0.01
+	# Range: 0.0 ~ 1.0
+	noiseCloneChance = 0.01
+	#Damage dealt per hit to any living entity standing on a Noise block (in half-hearts).
+	# Default: 1.0
+	# Range: 0.0 ~ 20.0
+	noiseBurnDamage = 1.0
+	#How often (in ticks) a Noise block deals damage to an entity standing on it. Default: 2 (every other tick).
+	# Default: 2
+	# Range: 1 ~ 100
+	noiseBurnInterval = 2
+
+[mod_compat]
+	#Allow Apotheosis affix relics (unique enchanted gear) to appear in Backrooms chest loot.
+	#Requires Apotheosis to be installed. Has no effect if that mod is absent.
+	apotheosisRelics = true
+
+[integrity]
+	#Block players from teleporting into the backrooms without a legitimate run.
+	#Covers mods like TempPad, the Backrooms mod, and any cross-dimension teleport that bypasses the entry mechanic.
+	#Players who arrive without an active run are immediately sent back to their respawn point.
+	preventUnauthorizedEntry = true
+	#Allow server operators (permission level 2+) to enter and exit the backrooms freely.
+	#Off by default — admins should use /extractrooms enter|leave for gameplay-safe access.
+	#Enable if you need ops to freely inspect or build in the dimension.
+	allowAdminEntry = false
+	#Cancel teleportation events while a player is inside the backrooms.
+	#Blocks ender pearls, chorus fruit, and mod teleports (e.g. minimap 'go to waypoint') from working inside the dimension.
+	#Does not affect vanilla /tp (admin command). Does not affect the exit portal.
+	#Minimap mods (Xaero's, JourneyMap): this blocks waypoint teleportation.
+	#To disable map rendering in this dimension, configure your minimap mod directly.
+	blockInDimensionTeleport = true
+	#Force inventory drops on death inside the backrooms, even if keepInventory is enabled.
+	#Prevents mods or gamerule hacks from letting players keep their gear after dying.
+	#Loot dropped this way still ends up on the backrooms floor — the player has to find it again.
+	forceDropOnDeath = true
+	#How many ticks a player has to escape before the timer kills them (20 ticks = 1 second).
+	#Default: 6000 (5 minutes). Set to 0 to disable the timer entirely.
+	# Default: 6000
+	# Range: 0 ~ 720000
+	runTimerTicks = 6000
+	#Ticks remaining on the run timer when the alarm reminder fires (20 ticks = 1 second, 1200 = 60s).
+	#Set to -1 to disable the reminder entirely.
+	# Default: 1200
+	# Range: > -1
+	timerReminderTicks = 1200
+	#Ticks of grace period after the timer hits 0 before the player dies (20 ticks = 1 second, 600 = 30s).
+	#During grace, nearby lamps go dark and Smilers begin spawning — growing more frequent as time goes on.
+	#Set to 0 to kill the player immediately on timer expiry (original behaviour).
+	# Default: 600
+	# Range: 0 ~ 72000
+	timerGraceTicks = 600
+	#Chunk radius around the player's chunk in which glaring lamps are suppressed when grace period starts (1 = 3×3 chunks, 2 = 5×5 chunks).
+	# Default: 48
+	# Range: 0 ~ 64
+	lampShutoffRadius = 48
+	#Number of enraged Smilers spawned around the player when grace period starts.
+	# Default: 3
+	# Range: 0 ~ 20
+	graceSmilerCount = 3

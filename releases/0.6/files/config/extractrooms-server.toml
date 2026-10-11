@@ -1,0 +1,15 @@
+[mod_compat]
+	#Disables access to & features of Xaero's World + Minimap while in the Backrooms.
+	#Requires Xaero's Minimap / World Map to be installed. Has no effect if those mods are absent.
+	#Server-enforced: this value is synced from the server to all connected clients.
+	obfuscateXaeros = true
+	#Gray out Waystones that lead into the Backrooms, and all Waystones when inside the Backrooms.
+	#Requires Waystones to be installed. Has no effect if that mod is absent.
+	#Server-enforced: this value is synced from the server to all connected clients.
+	grayOutWaystones = true
+
+[integrity]
+	#Replace XYZ, Block, and Chunk coordinates in the F3 debug screen with '???' while inside the backrooms.
+	#Also scrubs any coordinate lines added to F3 by other mods via the NeoForge overlay event.
+	#Server-enforced: this value is synced from the server to all connected clients.
+	obfuscateCoordinates = true

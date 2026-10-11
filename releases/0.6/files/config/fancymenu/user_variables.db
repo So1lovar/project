@@ -1,0 +1,86 @@
+type = user_variables
+
+variable {
+  name = debug
+  value = 1
+  reset_on_launch = false
+}
+
+variable {
+  name = test
+  value = 10
+  reset_on_launch = false
+}
+
+variable {
+  name = new-vers
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = new-ver-size
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = update-step-complect1
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = update-step-complect2
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = a-of-a-new-ver
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = update-step-complect-fin-delete
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = update-step-complect3
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = update-step-complect-install
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = update-step-complect-delete
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = progress
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = block
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = update-size-server
+  value = 
+  reset_on_launch = true
+}
+
