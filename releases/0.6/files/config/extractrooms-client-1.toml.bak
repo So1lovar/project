@@ -1,3 +1,0 @@
-[hud]
-	#Show the remaining-seconds label (e.g. '120s') beneath the timer icon.
-	showTimerText = true
